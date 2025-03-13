@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/08/01 17:59:18.000.696,C:\Users\Usuario\Desktop\Atualizador de server 90\Unit1.dfm=C:\Users\Usuario\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/08/01 17:59:25.000.917,C:\Users\Usuario\Desktop\Atualizador de server 90\Project1.dproj=C:\Users\Usuario\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/08/05 12:46:21.000.856,C:\Users\Usuario\Desktop\Atualizador de server 90\Agendar_Programa.dproj=C:\Users\Usuario\Desktop\Atualizador de server 90\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
